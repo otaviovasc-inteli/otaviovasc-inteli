@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects with real world impact
 - ⚡ Experience: I already worked with: C, C++, HTML, CSS, JS, Ruby on Rails, SQL and Python
 - 📫 How to reach me:
-  - Personal GitHub: <a href="https://github.com/otaviovasc">
+  - Personal GitHub: <a href="https://github.com/otaviovasc"> Personal GitHub </a>
   - Insta: <a href="https://www.instagram.com/otavio.vasc/"> @otavio.vasc </a>
   - Linkedin: <a href="https://www.linkedin.com/in/otavio-vasconcelos-a11827208/"> Otavio Vasconcelos </a>
 
